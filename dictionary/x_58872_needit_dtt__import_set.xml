@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DTT: Import set" max_length="40" name="x_58872_needit_dtt__import_set" sizeclass="12" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Planilhas de Gastos" label="Planilhas de Gastos" max_length="40" name="u_planilhas_de_gastos" type="string"/>
+    </element>
+</database>
